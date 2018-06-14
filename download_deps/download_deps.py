@@ -8,7 +8,7 @@ import subprocess
 import sys
 
 configPath = 'external.config'
-outputDirPath = 'builds'
+outputDirPath = '.'
 msbuildPathX86 = 'C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\MSBuild\\15.0\\Bin\\MSBuild.exe'
 msbuildPathX64 = 'C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\MSBuild\\15.0\\Bin\\amd64\\MSBuild.exe'
 #Visual Studio 2017 Community
